@@ -907,6 +907,7 @@ if (! class_exists('PP_Improved_Notifications')) {
                     'last_name',
                     'email',
                     'user',
+                    'test',
                 ]
             );
         }
